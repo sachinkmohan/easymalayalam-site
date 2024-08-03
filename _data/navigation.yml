@@ -6,6 +6,8 @@ main:
     url: /quizzes/
   - title: "Resources"
     url: /resources/
+  - title: "Pronunciation"
+    url: /pronunciation/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
