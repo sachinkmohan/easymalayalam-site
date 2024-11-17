@@ -8,6 +8,8 @@ main:
     url: /resources/
   - title: "Pronunciation"
     url: /pronunciation/
+  - title: "Speak"
+    url: /speak/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
