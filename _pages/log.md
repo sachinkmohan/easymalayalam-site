@@ -9,3 +9,4 @@ last_modified_at: 2025-01-17T10:00:26-04:00
 
 - Added a new blog post, Must Listen Malayalam Songs 2024
 - Updated 4 new movie titles for year 2024
+- Shea(A student of mine) sponsored the hosting fee of this website for another year and two years on a new domain(bhashatrainer.fun) which will be launched soon. Thanks to him! 🥳
