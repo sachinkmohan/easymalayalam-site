@@ -1,7 +1,7 @@
 ---
 permalink: /ai-generated-malayalam-podcast/
 layout: single
-title: "AI Generated Malayalam Podcast 🤯 😱"
+title: "Insta Post 100 - AI Generated Malayalam Podcast 🤯 😱"
 date: 2025-04-05 20:00:55 +0200
 last_modified_at: 2025-04-05T10:00:26-04:00
 read_time: true
